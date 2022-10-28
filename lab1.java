@@ -133,7 +133,7 @@ public class lab1 {
 		keyword="case";
 		while((readLine =lineReader.readLine()) != null){ 
 			count++;
-			if(count>lineNumS&&count<lineNumD) {
+			if(count>lineNumS&&count<lineNumD) {// 确保case在switch 和 default 之间
 			int next = 0;  //定义开始查找关键字的序列号
 			int index = 0; //获得readLine的对象值
 			while((index = readLine.indexOf(keyword,next)) != -1) {  //从每行的第0个索引开始遍历关键字
