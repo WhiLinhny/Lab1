@@ -7,7 +7,7 @@ import java.util.Stack;
     | ----------------- |--------------- | 
     | The Link of Requirement of This Assignment | https://bbs.csdn.net/topics/608734907 | 
     | The Aim of This Assignment | find keyword num and structure num |
-    | MU STU ID and FZU STU ID | 20123809_832002202 |
+    | MU STU ID and FZU STU ID | 20123809_832002202   |
  */
 public class lab1 {
 	public static void main(String[] args) throws IOException {
